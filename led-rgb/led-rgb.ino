@@ -5,9 +5,9 @@ float inc[3];
 
 int red, green, blue;
 
-int redPin = 11;
+int redPin = 9;
 int greenPin = 10;
-int bluePin = 9;
+int bluePin = 11;
 
 void setup()
 {
